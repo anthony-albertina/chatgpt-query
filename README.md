@@ -1,4 +1,4 @@
-# Programmatic Interface to Querying ChatGPT
+# Programmatic Interface for Querying ChatGPT
 
 <p align="center">
         <img src="/get_api_key.png">
