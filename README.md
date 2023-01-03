@@ -1,7 +1,7 @@
 # Programmatic Interface to Querying ChatGPT
 
 <p align="center">
-        <img src="/get-api-key.png">
+        <img src="/get_api_key.png">
 </p>
 
 This script shall provide AI answers to your human questions.
